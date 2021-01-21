@@ -1,4 +1,4 @@
-package org.task5and6;
+package org.task6;
 
 import org.baseMethods.Base;
 import org.openqa.selenium.WebElement;
@@ -71,8 +71,6 @@ public class PojoBookHotel extends Base {
 	public WebElement getBooknw() {
 		return booknw;
 	}
-	
-	
 
 
 
